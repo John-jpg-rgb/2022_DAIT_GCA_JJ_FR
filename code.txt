@@ -1,0 +1,20 @@
+dt <- read.csv("dentistry_meditation.csv", header = TRUE)
+head(dt)
+print(dt$GSR)
+print(max(dt$GSR))
+print(min(dt$GSR))
+Vsx <- subset(dt,Sex=="Female")
+print(Vsx)
+plot(subset(dt,Treatment=="Control"))
+dotchart(dt$GSR, xlim = c(0,10), bg = "skyblue",  main = "GSR")
+dotchart(dt$GSR, xlim = c(5,9), bg = "skyblue",  main = "GSR",xlab="XXX",ylab="YYY")
+r1.mean <- mean(dt$GSR)
+r2.mean <- mean(dt$VNRS)
+plot(dt$GSR, ylim = c(4.5,9.5),type = "b", col="red", main = "GSR Number", xlab="Number of Patients", ylab="GSR")
+
+# First line
+plot(dt$GSR, ylim = c(4,10), type = "b", frame = FALSE, pch = 19, col = "red", xlab = "x", ylab = "y")
+# Second line
+lines(dt$VNRS, ylim = c(4,10), pch = 18, col = "blue", type = "b", lty = 2)
+# Legend to the plot
+legend("topleft", legend=c("GSR", "VNRS"), col=c("red", "blue"), lty = 1:2)
