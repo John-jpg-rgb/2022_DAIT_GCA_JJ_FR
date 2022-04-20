@@ -1,0 +1,60 @@
+﻿Gender,Type,GSR,NVRS,,Gender,Type,GSR,NVRS
+Male,Meditation,5.6,8,,Female,Control,7.9,8
+Female,Meditation,6.9,7,,Female,Control,6.6,7
+Female,Meditation,7.2,7,,Male,Control,6.6,8
+Female,Meditation,6.1,7,,Female,Control,7.3,6
+Female,Meditation,6.4,7,,Female,Control,5.8,8
+Male,Meditation,8.7,8,,Female,Control,7.6,8
+Female,Meditation,5.8,8,,Male,Control,7.3,8
+Male,Meditation,8.2,9,,Male,Control,7.7,9
+Male,Meditation,6.2,9,,Male,control,6.1,7
+Female,Meditation,6.3,8,,Male,Control,6.3,8
+Female,Meditation,6.7,8,,Male,Control,6.1,7
+Male,Meditation,6.7,8,,Male,Control,5.7,9
+Male,Meditation,6.9,7,,Male,Control,6.7,9
+Female,Meditation,7.9,7,,Male,Control,6.8,8
+Male,Meditation,6.7,9,,Female,Control,7.1,8
+Female,Meditation,6,7,,Female,Control,6.6,9
+Male,Meditation,7.2,8,,Female,Control,7.2,9
+Male,Meditation,7.2,8,,Male,Control,6.7,8
+Male,Meditation,7.5,8,,Female,Control,7.8,6
+Female,Meditation,6.1,7,,Female,Control,7,8
+Female,Meditation,7.1,8,,Male,Control,6.7,9
+Male,Meditation,8.1,8,,female,Control,7.5,8
+Female,Meditation,6.6,8,,Female,Control,7.6,7
+Female,Meditation,6.8,8,,Male,Control,6.9,8
+Female,Meditation,6.1,8,,Male,Control,8.8,8
+Female,Meditation,6.4,7,,Male,Control,7.4,8
+Male,Meditation,5,9,,Female,Control,6.9,8
+Female,Meditation,6.8,7,,Male,Control,8.9,9
+Female,Meditation,5.1,8,,Male,Control,5.7,7
+Male,Meditation,7.1,8,,Female,Control,6.8,8
+Female,Meditation,5.7,8,,Female,Control,6.5,8
+Male,Meditation,6.8,8,,Male,Control,7.2,9
+Female,Meditation,7.8,7,,Male,Control,6.6,9
+Male,Meditation,5.8,7,,Female,Control,6.1,8
+Female,Meditation,5.6,8,,Female,Control,6.9,9
+Female,Meditation,6.7,8,,Male,Control,7.1,9
+Male,Meditation,6.8,8,,Female,Control,7.3,7
+Male,Meditation,7.1,8,,Female,Control,6.5,8
+Male,Meditation,7.1,8,,Male,Control,8.7,8
+Female,Meditation,7.3,7,,Male,Control,8,8
+Female,Meditation,6,8,,Male,Control,5.6,8
+Male,Meditation,6.6,8,,Male,Control,8.6,9
+Female,meditation,6,8,,Male,Control,8.1,8
+Female,Meditation,7.2,8,,Female,Control,6.9,7
+Male,Meditation,7.2,7,,Female,Control,6.7,7
+Male,Meditation,6.2,8,,Female,Control,7.7,8
+Female,Meditation,6.3,7,,Male,Control,6.3,9
+Male,Meditation,6.8,8,,female,Control,7.6,8
+Male,Meditation,5.5,8,,Male,Control,7.5,8
+Female,Meditation,6.8,8,,Male,Control,6,8
+,,,,,,,,
+Meditation,,GSR,VNRS,,Control,,GSR,VNRS
+Sample Mean,,6.654,7.78,,Sample Mean,,7.04,8.02
+Sample Standard deviation,,0.765299941,0.575847202,,Sample Standard deviation,,0.797245257,0.761314652
+Sample Size,,50,50,,Sample Size,,50,50
+Standard Error,,0.108229756,0.081437092,,Standard Error,,0.112747506,0.107666151
+,,,,,,,,
+,,GSR,VNRS,,,,,
+Measure of Variability,,0.156287172,0.134996296,,,,,
